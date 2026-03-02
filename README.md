@@ -1,7 +1,9 @@
 ## Hi I'm Carsen Manuel
 
 ## About Me: 
-I am an Architecture and Design Studies student focused on bridging design and engineering to build intuitive, human-centered digital experiences through system thinking. My background in project engineering and the built environment shapes how I approach problem-solving: structure, clarity and user experience.
+I am an Architecture and Design Studies student focused on bridging design and engineering to build intuitive, human-centered digital experiences through system thinking. 
+
+My background in project engineering and the built environment shapes how I approach problem-solving: structure, clarity and user experience.
 
 I’m currently strengthening my skills in JavaScript, React, and Git-based workflows, to build interactive applications that translate human-centered design principles into responsive, accessible digital products.
 

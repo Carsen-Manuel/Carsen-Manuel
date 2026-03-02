@@ -1,22 +1,22 @@
 ## Hi I'm Carsen Manuel
 
-### About Me: 
+## About Me: 
 I am an Architecture and Design Studies student focused on bridging design and engineering to build intuitive, human-centered digital experiences through system thinking. My background in project engineering and the built environment shapes how I approach problem-solving: structure, clarity and user experience.
 
 I’m currently strengthening my skills in JavaScript, React, and Git-based workflows, to build interactive applications that translate human-centered design principles into responsive, accessible digital products.
 
-### What I've Been Working on Recently
-• ✅ Google - Introduction to Git and GitHub Certificate (Completed)
-•	🚀 Front-End Simplified Bootcamp, Student (In Progress)
-•	🚀 Meta - Front-End Developer Professional Certificate (In Progress)
-•	🛠 Enhancing my digital portfolio
-•	📐 Exploring digital workflow systems and construction technology 
+## What I've Been Working on Recently
+- ✅ Google - Introduction to Git and GitHub Certificate (Completed)
+-	🚀 Front-End Simplified Bootcamp, Student (In Progress)
+-	🚀 Meta - Front-End Developer Professional Certificate (In Progress)
+-	🛠 Enhancing my digital portfolio
+-	📐 Exploring digital workflow systems and construction technology 
 
-### 🎯 My Roadmap (2026)
-•	Deepening frontend development (JavaScript and React)
-•	Building production-ready frontend projects
-•	AWS Certified Cloud Practitioner (Planned, Fall 2026)
-•	SQL and database fundamentals
+## 🎯 My Roadmap (2026)
+-	Deepening frontend development (JavaScript and React)
+-	Building production-ready frontend projects
+-	AWS Certified Cloud Practitioner (Planned, Fall 2026)
+-	SQL and database fundamentals
 
 
 

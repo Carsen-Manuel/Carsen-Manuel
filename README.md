@@ -7,7 +7,7 @@ My background in project engineering and the built environment shapes how I appr
 
 I’m currently strengthening my skills in JavaScript, React, and Git-based workflows, to build interactive applications that translate human-centered design principles into responsive, accessible digital products.
 
-## What I've Been Working on Recently
+## 🌱 What I've Been Working on Recently
 * ✅ Google - Introduction to Git and GitHub Certificate (Completed)
 *	🚀 Front-End Simplified Bootcamp, Student (In Progress)
 *	🚀 Meta - Front-End Developer Professional Certificate (In Progress)
@@ -19,6 +19,15 @@ I’m currently strengthening my skills in JavaScript, React, and Git-based work
 *	Building production-ready frontend projects
 *	AWS Certified Cloud Practitioner (Planned, Fall 2026)
 *	SQL and database fundamentals
+
+## Connect With Me
+* https://www.linkedin.com/in/carsen-manuel-38029b250/
+
+## Tech Stach
+*	Languages: <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e99e1ae2-695d-4039-8af7-5db31293daa7" /> <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/b5d2c726-ba0c-47b3-a568-92903df49471" />
+
+
+
 
 
 
